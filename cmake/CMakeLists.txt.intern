@@ -152,4 +152,5 @@ TARGET_LINK_LIBRARIES (sass_scatter_devices
 	sass_stager
 	sass_sample  
 	${Boost_LIBRARIES} 
+	${HDF5_HL_LIBRARIES}
 )
